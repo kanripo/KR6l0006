@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:26.234552
+#+DATE: 2015-08-30 20:47:30.657814
 #+TITLE: 眾事分阿毘曇論
 #+PROPERTY: CBETA_ID T26n1541
 #+PROPERTY: ID KR6l0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1541
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0006_T_008-0663a> 
 #+PROPERTY: JUAN 8
 ¶
-
- 《眾事分阿毘曇論》卷第八¶
+《眾事分阿毘曇論》卷第八¶
 ¶
 尊者世友造¶
 宋天竺三藏求那跋陀羅¶
 共菩薩提耶舍譯¶
 
-7千問論品
-:PROPERTIES:
-:head: 千問論品第七之一
-:END:
-¶
+千問論品第七之一¶
 
 戒淨果通種斷如意足念諦。¶
 
@@ -515,8 +510,7 @@
 如四聖種。四正勤四如意足善聚修多羅亦¶
 如是。¶
 
-念者。謂四念處。問云何四。答謂身念處。乃¶
-至法念處。云何身念處。謂緣身慧。云何受念¶
+念者。謂四念處。問云何四。答謂身念處。乃至法念處。云何身念處。謂緣身慧。云何受念¶
 處。謂緣受慧。云何心念處。謂緣心慧。云何法¶
 念處。謂緣法慧。問此四念處。幾色。幾非色。¶
 答一切非色一切不可見。一切是無對。¶

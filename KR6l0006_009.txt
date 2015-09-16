@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:26.266134
+#+DATE: 2015-08-30 20:47:30.686949
 #+TITLE: 眾事分阿毘曇論
 #+PROPERTY: CBETA_ID T26n1541
 #+PROPERTY: ID KR6l0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1541
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENGYI
 #+PROPERTY: LASTPB <pb:KR6l0006_T_009-0668c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
-
- 《眾事分阿毘曇論》卷第九¶
+《眾事分阿毘曇論》卷第九¶
 ¶
 尊者世友造¶
 宋天竺三藏求那跋陀羅¶
 共菩提耶舍譯¶
 
-:PROPERTIES:
-:head: 千問論品第七之二
-:END:
-¶
+千問論品第七之二¶
 
 四念處。問云何四。答謂身念處。受念處。心¶
 念處。法念處。問此四念處。幾色。幾非色。¶
@@ -305,8 +301,7 @@
 法念處。或不善因非不善。作三句。不善因非¶
 不善者。謂不善報生法念處。及欲界身見邊¶
 見相應法念處。不善亦不善因者。謂不善法¶
-念處。非不善亦非不善因者。謂除不善報¶
-生法念處。及除欲界身見邊見相應法念處。
+念處。非不善亦非不善因者。謂除不善報生法念處。及除欲界身見邊見相應法念處。
 <pb:KR6l0006_T_009-0671c>¶
 若餘無記及善法念處。¶
 
