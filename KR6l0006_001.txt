@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:26.027875
+#+DATE: 2015-08-30 20:47:31.721378
 #+TITLE: 眾事分阿毘曇論
 #+PROPERTY: CBETA_ID T26n1541
 #+PROPERTY: ID KR6l0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1541
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0006_T_001-0627a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1541[No.1542]¶
-
- 眾事分阿毘曇論卷第一¶
+No. 1541 [No. 1542]¶
+眾事分阿毘曇論卷第一¶
 ¶
 尊者世友造¶
 宋天竺三藏求那跋陀羅¶
 共菩提耶舍譯¶
 
-1五法品
-:PROPERTIES:
-:head: 五法品第一五法
-:END:
-¶
+五法品第一五法¶
 
 問云何五。答謂色心心法心不相應行無為。¶
 云何色。謂四大及四大造色。云何四大。謂地¶
@@ -217,11 +212,7 @@ No.1541[No.1542]¶
 何數滅。謂數滅滅是解脫。云何非數滅。謂¶
 非數滅滅非解脫。¶
 
-2分別智品
-:PROPERTIES:
-:head: 《眾事分阿毘曇論》分別智品第二
-:END:
-¶
+《眾事分阿毘曇論》分別智品第二¶
 
 十智。云何十。謂法智比智知他心智等智苦
 <pb:KR6l0006_T_001-0629a>¶

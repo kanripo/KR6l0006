@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:26.319147
+#+DATE: 2015-08-30 20:47:32.000634
 #+TITLE: 眾事分阿毘曇論
 #+PROPERTY: CBETA_ID T26n1541
 #+PROPERTY: ID KR6l0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1541
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0006_T_011-0680b> 
 #+PROPERTY: JUAN 11
 ¶
-
- 《眾事分阿毘曇論》卷第十一¶
+《眾事分阿毘曇論》卷第十一¶
 ¶
 尊者世友造¶
 宋天竺三藏求那跋陀羅¶
 共菩提耶舍譯¶
 
-:PROPERTIES:
-:head: 千問論品第七之四
-:END:
-¶
+千問論品第七之四¶
 
 根者。謂二十二根。問此二十二根。幾色。幾非¶
 色。答七是色。十五非色。一切不可見。七有¶

@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:26.292601
+#+DATE: 2015-08-30 20:47:31.970596
 #+TITLE: 眾事分阿毘曇論
 #+PROPERTY: CBETA_ID T26n1541
 #+PROPERTY: ID KR6l0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1541
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0006_T_010-0674c> 
 #+PROPERTY: JUAN 10
 ¶
-
- 《眾事分阿毘曇論》卷第十¶
+《眾事分阿毘曇論》卷第十¶
 ¶
 尊者世友造¶
 宋天竺三藏求那跋陀羅¶
 共菩提耶舍譯¶
 
-:PROPERTIES:
-:head: 千問論品第七之三
-:END:
-¶
+千問論品第七之三¶
 
 禪無量無色三摩提定菩提品根入陰界。禪¶
 者。謂四禪。問云何四。答謂初禪。二禪。三禪。¶

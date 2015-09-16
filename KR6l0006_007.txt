@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:26.200769
+#+DATE: 2015-08-30 20:47:31.890063
 #+TITLE: 眾事分阿毘曇論
 #+PROPERTY: CBETA_ID T26n1541
 #+PROPERTY: ID KR6l0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1541
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0006_T_007-0659a> 
 #+PROPERTY: JUAN 7
 ¶
-
- 《眾事分阿毘曇論》卷第七¶
+《眾事分阿毘曇論》卷第七¶
 ¶
 尊者世友造¶
 宋天竺三藏求那跋陀羅¶
 共菩提耶舍譯¶
 
-:PROPERTIES:
-:head: 分別攝品第六之四
-:END:
-¶
+分別攝品第六之四¶
 
 三世及三世說事。十八界十二入五陰攝。九¶
 智知。除滅智。六識識。一切使使。欲界苦苦。¶
